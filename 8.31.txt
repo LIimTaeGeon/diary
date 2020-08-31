@@ -1,0 +1,19 @@
+한 일
+1. 데이터베이스 공부
+  - 5장
+2. Aws 공부
+  - aws training
+  - aws cloud practitioner Essentials:M1
+  - aws cloud practitioner Essentials:M2 수강
+3. 9/3 전체회의 연락
+  - 김도용 학생은 기숙사 입실예정이라 참가 불가
+  - 김시아 학생은 참가 가능
+4. 2020 2학기 수업
+  - 수업 테스트 참여 (zoom)
+
+할 일
+1. 데이터베이스 공부
+  - 6장
+2. Aws 공부
+  - aws cloud practitioner Essentials:M3
+  - aws cloud practitioner Essentials:M4 수강

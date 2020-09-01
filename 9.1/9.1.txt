@@ -1,0 +1,14 @@
+한 일
+1. 데이터 베이스 공부
+  - 6장
+  - 실습 postgresql사용
+  - 테이블 스키마 만들어보기
+2. Aws 공부
+  -  aws cloud practitioner Essentials:M3 절반 수강
+
+할 일
+1. 데이터 베이스 공부
+  - 6장
+  - 실습
+2. Aws 공부
+  - aws cloud practitioner Essentials:M3 나머지 수강

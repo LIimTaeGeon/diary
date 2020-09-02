@@ -1,0 +1,17 @@
+한 일
+1. 데이터베이스 공부
+  - 7장 마무리
+  - 튜플 검색, 삭제, 수정, 조건부 검색 등
+2. Aws 공부
+  - aws cloud practitioner Essentials:M3
+  - aws cloud practitioner Essentials:M4
+  - 예제 덤프 정답률 70% (21/30)
+
+할 일
+1. Aws 공부
+  - aws cloud practitioner Essentials:M5
+  - aws cloud practitioner Essentials:M6
+  - 예제 덤프
+2. 인스타 클론 프로젝트
+  - 백엔드 작업 재개
+3. 주간 회의

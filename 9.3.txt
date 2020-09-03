@@ -1,0 +1,14 @@
+한 일
+1. Aws 공부
+  - aws cloud practitioner Essentials:M5
+  - aws cloud practitioner Essentials:M6
+  - 예제 덤프 풀이 정답률 56% (14/25)
+2. 연구마을 결제 서류
+  - 추가 서류 제출
+3. 회의
+  - 다음주 회의 준비
+
+할 일
+1. Aws 공부
+  - 예제 덤프 풀이
+2. 인스타 클론 프로젝트

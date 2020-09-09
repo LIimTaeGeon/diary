@@ -1,0 +1,16 @@
+한 일
+1. 세이포드
+  - 로그인/그래프/진단명 수정
+  - GitHub 업로드 https://github.com/LIimTaeGeon/safaud
+2. Aws 공부
+  - 세윤이형 education 링크 공유
+3. 회의준비
+  - teams, zoom 로그인 및 테스트
+4. 세이포드 컨택
+  - 문서공유, 진행상황보고 프로그램 공유
+  - GitHub 이용 링크 공유(ios)
+
+할 일
+1. 인스타 클론 프로젝트
+2. 회의
+3. Aws 공부
